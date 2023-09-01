@@ -2,7 +2,7 @@
 
 ## Deploy Link: https://mayankmp.github.io/dice-game/
 
-![Screenshot](src/assets/ss.png)
+![Screenshot](public/preview.jpg)
 
 <p>
   <a href="https://www.npmjs.com/package/vite-plugin-react-pages" target="_blank" rel="noopener"><img src="https://img.shields.io/npm/v/vite-plugin-react-pages.svg" alt="npm package" /></a>
